@@ -24,9 +24,9 @@
 
 <h2>Troisième étape : créer la base de données</h2>
 
-<h2>Quatrième étape : Utilisation</h2>
+<h2>Quatrième étape : Installation de l'extension Elementor</h2>
 
-
+<h2>Cinquième étape : Utilisation</h2>
 
 </body>
 </html>
